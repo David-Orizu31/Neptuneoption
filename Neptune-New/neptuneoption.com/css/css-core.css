@@ -7292,11 +7292,11 @@ button[type="submit"]{
         flex: 1
     }
 
-    #forexTable table tbody tr td{
+    #CryptoTable table tbody tr td{
         flex: 0 0 50%
     }
 
-    #forexTable table tbody tr td:first-child, #forexTable table tbody tr td:last-child{
+    #CryptoTable table tbody tr td:first-child, #CryptoTable table tbody tr td:last-child{
         flex: 0 0 100%
     }
 
