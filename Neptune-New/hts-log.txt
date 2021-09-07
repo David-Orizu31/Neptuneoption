@@ -746,7 +746,7 @@ Crypto
 
 19:54:36	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://unpkg.com/aos@2.3.1/dist/aos.css (from https://neptuneoption.com/)
 
-20:02:15	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://www.quantumssets/img/og-img.jpg (from https://neptuneoption.com/shares.html)
+20:02:15	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://www.Coinneptune/img/og-img.jpg (from https://neptuneoption.com/shares.html)
 
 20:02:15	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.tmgm.com/img/flag-us.png (from https://neptuneoption.com/shares.html)
 
@@ -856,7 +856,7 @@ Crypto
 
 21:31:31	Error: 	"Not Found" (404) at link https://neptuneoption.com/energies (from https://neptuneoption.com/rmarket.html)
 
-21:31:31	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.quantumssets/img/og-img.jpg (from https://neptuneoption.com/shares.html)
+21:31:31	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.Coinneptune/img/og-img.jpg (from https://neptuneoption.com/shares.html)
 
 21:31:33	Warning: 	Retry after error 500 () at link https://www.tmgm.com/img/flag-us.png (from https://neptuneoption.com/shares.html)
 
@@ -1066,7 +1066,7 @@ Crypto
 
 21:40:18	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js (from https://neptuneoption.com/register)
 
-21:40:18	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.quantumssets/img/og-img.jpg (from https://neptuneoption.com/shares.html)
+21:40:18	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.Coinneptune/img/og-img.jpg (from https://neptuneoption.com/shares.html)
 
 21:40:18	Error: 	"" (500) after 2 retries at link https://www.tmgm.com/img/flag-us.png (from https://neptuneoption.com/shares.html)
 
